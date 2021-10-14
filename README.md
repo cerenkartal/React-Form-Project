@@ -1,4 +1,4 @@
-# Online Shopping Project
+# React Form Project
 
 The project is built with React and typescript. It reflects the form prepared over JSONBULUT to the page. It is an example of a dynamic form.
 ## Languages and Technologies Used in this Project
